@@ -88,10 +88,20 @@ print('RMSE = ',rmse)
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/c9a49191-03b0-4fd2-bc68-64efc3ef836d)
-![image](https://github.com/user-attachments/assets/0e98c72f-73ce-43fb-8ad9-273dcf284563)
-![image](https://github.com/user-attachments/assets/2dbcd60f-097b-458c-9b09-7bbf14277cd1)
-![image](https://github.com/user-attachments/assets/ae0b2e7a-35da-4dfe-8688-54f2d1483f72)
+![image](https://github.com/user-attachments/assets/c0fe7649-039c-44d9-989a-2c6b1e7dd0d4)
+![image](https://github.com/user-attachments/assets/7de0be1b-c8ce-4555-9b8a-e1dfcf47174e)
+![image](https://github.com/user-attachments/assets/7896a547-4222-4cf9-8267-574447b2b3db)
+![image](https://github.com/user-attachments/assets/1281b970-e708-4cab-8123-e45ed7666f52)
+![image](https://github.com/user-attachments/assets/447d1749-7a59-4429-ac18-cc4084f65660)
+![image](https://github.com/user-attachments/assets/948c9a9d-66be-4847-af02-f3b4096d0ad0)
+
+![image](https://github.com/user-attachments/assets/00da63e9-78e7-43ea-874b-3dd7fc27a89e)
+
+![image](https://github.com/user-attachments/assets/27fae159-4d9f-4a61-96eb-a6c4e5d0ee1f)
+![image](https://github.com/user-attachments/assets/bab9d0b6-6f4c-42f0-bcb1-1eca5e1206bc)
+![image](https://github.com/user-attachments/assets/720f2358-2bd1-402e-a57a-dbd112c4865c)
+![image](https://github.com/user-attachments/assets/60faa2b8-7571-4207-9a6a-d5bfd5ce1461)
+
 
 
 
