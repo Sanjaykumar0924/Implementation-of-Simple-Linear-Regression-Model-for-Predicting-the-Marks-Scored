@@ -20,7 +20,8 @@ To write a program to predict the marks scored by a student using the simple lin
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Ragvan.E
 RegisterNumber:  212223040160
-
+```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -73,8 +74,8 @@ print('MAE = ',mae)
 
 rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
-
 ```
+
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/c9a49191-03b0-4fd2-bc68-64efc3ef836d)
